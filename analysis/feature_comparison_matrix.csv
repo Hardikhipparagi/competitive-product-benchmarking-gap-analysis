@@ -1,0 +1,16 @@
+Feature,TaskFlow,Asana,ClickUp,monday.com,Notion,Trello,Customer Demand,Business Importance,Gap,Priority,Recommended Action
+Task Management,Yes,Yes,Yes,Yes,Yes,Yes,5,High,No,High,Maintain / differentiate
+Project Planning,Yes,Yes,Yes,Yes,Partial,Partial,5,High,No,High,Maintain / differentiate
+Task Dependencies,Partial,Yes,Yes,Partial,No,Yes,5,Medium,Yes,Medium,Improve
+Custom Workflows,Yes,Yes,Yes,Yes,Yes,Partial,4,High,No,Medium,Maintain / differentiate
+Automation,Partial,Yes,Yes,Yes,Partial,Yes,5,High,Yes,High,Improve
+AI Assistant,No,Yes,Yes,Yes,Yes,Yes,5,High,Yes,High,Build / evaluate
+AI Summaries,No,Yes,Yes,Partial,Yes,No,4,Medium,Yes,Medium,Build / evaluate
+Advanced Reporting,Partial,Yes,Yes,Yes,Yes,Partial,4,Medium,Yes,Medium,Improve
+Dashboards,Yes,Yes,Yes,Yes,Yes,Partial,4,Medium,No,Medium,Maintain / differentiate
+Third-party Integrations,Yes,Yes,Yes,Yes,Yes,Yes,5,High,No,High,Maintain / differentiate
+Real-time Collaboration,Yes,Yes,Yes,Yes,Yes,Yes,4,Medium,No,Medium,Maintain / differentiate
+Comments & Mentions,Yes,Yes,Yes,Yes,Yes,Yes,3,Low,No,Medium,Maintain / differentiate
+Mobile App,Yes,Yes,Yes,Yes,Yes,Yes,4,Medium,No,Medium,Maintain / differentiate
+SSO & Enterprise Security,Partial,Yes,Yes,Yes,Partial,Yes,5,High,Yes,High,Improve
+Audit Logs,No,Yes,Yes,Yes,Partial,Partial,4,Medium,Yes,Medium,Build / evaluate

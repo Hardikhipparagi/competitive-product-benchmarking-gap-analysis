@@ -1,0 +1,9 @@
+Opportunity,Customer Demand,Business Value,Strategic Alignment,Competitive Impact,Revenue Potential,Development Effort,Priority,Recommended Action
+AI Assistant,5,5,5,4,5,High,High,Build now
+AI Summaries,4,4,4,4,4,High,High,Build now
+Audit Logs,4,4,4,4,4,Medium,High,Plan
+Task Dependencies,5,5,5,3,4,Medium,Medium,Improve
+Custom Workflows,4,5,4,4,5,High,Medium,Improve
+Automation,5,5,5,4,5,High,High,Improve
+Advanced Reporting,4,5,4,4,4,High,Medium,Improve
+SSO & Enterprise Security,5,5,5,4,5,High,High,Build / enterprise focus

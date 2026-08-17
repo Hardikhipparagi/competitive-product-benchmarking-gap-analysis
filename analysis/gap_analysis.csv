@@ -1,0 +1,8 @@
+Feature,Company Score,Competitor Best Score,Gap Score,Customer Demand,Business Importance,Gap Type,Priority,Development Effort
+Task Dependencies,0.5,1,2.0,5,4,Strategic Gap,High,Medium
+Automation,0.5,1,2.5,5,5,Strategic Gap,High,Low
+AI Assistant,0.0,1,5.0,5,5,Critical,High,High
+AI Summaries,0.0,1,4.0,4,4,Innovation Gap,Medium,High
+Advanced Reporting,0.5,1,2.0,4,4,Strategic Gap,Medium,Low
+SSO & Enterprise Security,0.5,1,2.5,5,5,Technology Gap,High,High
+Audit Logs,0.0,1,4.0,4,4,Technology Gap,Medium,High
